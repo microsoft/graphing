@@ -1,4 +1,5 @@
 # Project
+NOTE: We are in the process of migrating the code from here: https://github.com/ryu577/graphing. Until you see this message, please use that repository.
 
 > This repo has been populated by an initial template to help get you started. Please
 > make sure to update the content to build a great experience for community-building.
