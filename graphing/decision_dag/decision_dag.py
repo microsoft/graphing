@@ -5,7 +5,7 @@ from pyvis.network import Network
 import matplotlib.pyplot as plt
 import re
 
-
+# Node for decision DAG
 class DAGNode(object):
 	def __init__(self, key1='a', adj_lst=[]):
 		self.nxt = None
